@@ -1,0 +1,23 @@
+{
+  "name": "Projeto-Galeria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digaoreisdev/Projeto-Galeria.git"
+  },
+  "keywords": [],
+  "author": "Rodrigo Reis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digaoreisdev/Projeto-Galeria/issues"
+  },
+  "homepage": "https://github.com/digaoreisdev/Projeto-Galeria#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0"
+  }
+}
