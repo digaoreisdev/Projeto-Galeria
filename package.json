@@ -4,20 +4,23 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/digaoreisdev/Projeto-Galeria.git"
   },
   "keywords": [],
-  "author": "Rodrigo Reis",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
   "bugs": {
     "url": "https://github.com/digaoreisdev/Projeto-Galeria/issues"
   },
-  "homepage": "https://github.com/digaoreisdev/Projeto-Galeria#readme",
-  "devDependencies": {
-    "webpack": "^5.74.0"
-  }
+  "homepage": "https://github.com/digaoreisdev/Projeto-Galeria#readme"
 }
